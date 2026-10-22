@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚2 semestre em Desenvolvimento de Sistemas no SENAI 1.34<br>🤖Certifico em AI-900<br>📕 Cursando inglês e espanhol<br>🖥️Meu primeiro projeto no Senai foi uma casa inteligente <br>❤️Apaixonada por futebol e música</p>
+<p align="left">📚2 semestre em Desenvolvimento de Sistemas no SENAI 1.34<br>🤖Certifico em AI-900<br>📕 Cursando inglês e espanhol<br>🖥️Meu primeiro projeto no Senai foi uma casa inteligente <br>❤️Apaixonada por animes e músicas</p>
 
 ###
 
