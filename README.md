@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante em Desenvolvimento de Sistemas no SENAI de informática 🖥️ e em processo de obtenção da certificação AI-900.👩‍🏫</p>
+<p align="left">Sou estudante em Desenvolvimento de Sistemas no SENAI de informática 🖥️ e com certificação em um curso AI-900.👩‍🏫</p>
 
 ###
 
